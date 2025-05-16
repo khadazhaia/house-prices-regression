@@ -16,13 +16,12 @@ Notable Insights:
 
 Features such as OverallQual, GrLivArea, and GarageCars showed the strongest correlation with sale price.
 Majority of dwellings were priced between $100,000 and $300,000.
-Higher-quality homes significantly influenced sale price.
 
 ## Data Preprocessing (Clean)
 
 Tasks Performed:
 
-Handled missing values and inconsistent entries.
+Handled missing values and outliers.
 Encoded categorical variables and normalized numeric features.
 
 ## Model Evaluation 
