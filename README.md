@@ -32,21 +32,21 @@ Models Tried:
 Linear Regression,
 Random Forest Regressor,
 Gradient Boosting Regressor,
-XGBoost Regressor,
+XGBoost Regressor
 
 Model Evaluation Metrics:
 
 Root Mean Squared Error (RMSE): Measures prediction error
 
-R² Score: Measures how well variance is explained
+R2 Score: Measures how well variance is explained
 
 Results:
 
 Tuned Gradient Boosting Regressor (Best Performer)
 
-RMSE ≈ $19,906
+RMSE = $19,906
 
-R² = 0.88 — Best overall performance
+R2 = 0.88 — Best overall performance
 
 ## Conclusion
 
