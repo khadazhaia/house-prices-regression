@@ -4,11 +4,13 @@ This project aims to predict house sale prices using a structured data science w
 
 ## Exploratory Data Analysis (EDA)
 
-Dives deep into understanding the structure and relationships within the dataset.
+Univariate Analysis: 
 
-Univariate Analysis: Analyzed the distribution of dwelling types, lot areas, and sale prices.
+Analyzed the distribution of dwelling types, lot areas, and sale prices.
 
-Bivariate & Multivariate Analysis: Assessed how features like dwelling type and lot area affect sale price and identified numeric features that most correlated with sale price.
+Bivariate & Multivariate Analysis: 
+
+Assessed how features like dwelling type and lot area affect sale price and identified numeric features that most correlated with sale price.
 
 Notable Insights:
 
@@ -18,16 +20,12 @@ Higher-quality homes significantly influenced sale price.
 
 ## Data Preprocessing (Clean)
 
-Focuses on transforming the raw dataset into a form suitable for modeling.
-
 Tasks Performed:
 
 Handled missing values and inconsistent entries.
 Encoded categorical variables and normalized numeric features.
 
 ## Model Evaluation 
-
-Explores and compares different regression models to predict house sale prices.
 
 Models Tried:
 
